@@ -1,7 +1,7 @@
 Git is a distributed versin control system
 Git is free software distributed under the GPL
 Git has a mutable index called stage.
-Git tracks changes.
+Git tracks changes of files.
 修改完文件还得使用 git add 文件名   到暂存区,第二步再提交git commit.
 查看git状态(是否有修改内容)git status
 查看修改内容:git diff.
