@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:chart="http://schemas.android.com/apk/res-auto"
+    android:layout_width="40dp"
+    android:layout_height="match_parent"
+    >
+    <com.lubangame.recycle_master.ChartItemView
+        android:id="@+id/chartItemView"
+        android:layout_width="40dp"
+        android:layout_height="match_parent"
+        chart:xAxisMid="true"
+        />
+</RelativeLayout>

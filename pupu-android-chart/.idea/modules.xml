@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chart-lib/chart-lib.iml" filepath="$PROJECT_DIR$/chart-lib/chart-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chartview/chartview.iml" filepath="$PROJECT_DIR$/chartview/chartview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pupu-android-chart.iml" filepath="$PROJECT_DIR$/pupu-android-chart.iml" />
+    </modules>
+  </component>
+</project>

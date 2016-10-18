@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AxisView">
+        <attr name="xLable" format="string"/>
+        <attr name="yLable" format="string"/>
+        <attr name="xAxisMid" format="boolean"/>
+    </declare-styleable>
+</resources>

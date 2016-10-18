@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LineCharView">
+        <attr name="xAxisIsMid" format="boolean"/>
+        <attr name="maxNum" format="float"/>
+        <attr name="xLable" format="string"/>
+        <attr name="yLable" format="string"/>
+        <attr name="backgroundColor" format="color"/>
+    </declare-styleable>
+</resources>
